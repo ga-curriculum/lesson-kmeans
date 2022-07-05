@@ -34,6 +34,6 @@ Before this lesson(s), students should already be able to:
 ## Additional Resources
 
 * K-means: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-* Interactive demo [visualization] (http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+* Interactive demo [visualization](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 * scikit-learn's user guide compares many different [types of clustering](http://scikit-learn.org/stable/modules/clustering.html).
 * Here's a fun example of clustering: [A Statistical Analysis of the Work of Bob Ross](http://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
